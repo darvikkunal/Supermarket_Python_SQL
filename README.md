@@ -59,6 +59,11 @@ This project provides a detailed analysis of the supermarket dataset, offering v
 
 **Acknowledgements**
 
-Dataset: Supermarket Superstore Dataset Bundle from Kaggle.
-Tools Used: Jupyter Notebook, Pandas, SQLAlchemy, psycopg2, PostgreSQL.
+***Dataset:***
+
+ Supermarket Superstore Dataset Bundle from Kaggle.
+
+***Tools Used:***
+
+ Jupyter Notebook, Pandas, SQLAlchemy, psycopg2, PostgreSQL.
 
