@@ -1,3 +1,5 @@
+![Logo](https://github.com/darvikkunal/Supermarket_Python_SQL/blob/main/Ecomm_Analysis.png)
+
 **Supermarket Analysis Project**
 This project involves the analysis of a supermarket dataset sourced from Kaggle. The dataset provides insights into customer purchasing behavior, product preferences, and shopping trends, enabling a comprehensive understanding of the supermarket's operations.
 
@@ -19,9 +21,13 @@ The dataset was loaded into a Jupyter Notebook using Pandas DataFrames.
 Initial data exploration and manipulation were performed to ensure data quality.
 Database Connection:
 
+![Logo](https://github.com/darvikkunal/Supermarket_Python_SQL/blob/main/Ecomm_Analysis_SQL.png)
+
 PostgreSQL was connected to the Jupyter Notebook using psycopg2.
 A PostgreSQL engine was created using SQLAlchemy (create_engine), and a connection cursor was established.
 Data was appended to the PostgreSQL tables using the to_sql method after creating the necessary tables.
+
+![Logo](https://github.com/darvikkunal/Supermarket_Python_SQL/blob/main/Ecomm_Analysis_Python.png)
 
 **Data Analysis:**
 
